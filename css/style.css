@@ -11,6 +11,7 @@
 body {
   font-family: 'Poppins', sans-serif;
   text-align: center;
+  min-height: 100vh;
 }
 
 /* HEADER */
@@ -244,4 +245,13 @@ nav {
   display: flex;
   justify-content: space-between;
   margin-bottom: 80px;
+}
+
+footer {
+  padding: 20px;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  gap: 80px;
+  background-color: #20b2a8;
 }
