@@ -247,6 +247,8 @@ nav {
   margin-bottom: 80px;
 }
 
+/* FOOTER */
+
 footer {
   padding: 20px;
   color: #fff;
@@ -256,6 +258,7 @@ footer {
   background-color: #20b2a8;
 }
 
+/* GOTO-TOP ARROW  */
 .top {
   position: fixed;
   top: 600px;
