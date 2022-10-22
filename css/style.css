@@ -211,4 +211,13 @@ nav {
   gap: 5px;
   border-bottom: 3px solid #d81059;
   padding-bottom: 50px;
+  margin-bottom: 80px;
+}
+
+.two {
+  margin: 0 50px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  gap: 10px;
 }
