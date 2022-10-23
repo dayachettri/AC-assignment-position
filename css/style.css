@@ -153,8 +153,13 @@ nav {
   left: 40px;
 }
 
+.position-container.relative {
+  position: relative;
+}
+
 .position-item.hero.absolute {
   position: absolute;
+  left: 60px;
 }
 
 /* scroll div */
